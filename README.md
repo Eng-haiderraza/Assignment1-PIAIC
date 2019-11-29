@@ -1,2 +1,3 @@
-# Assignment1-PIAIC
-PIAIC Artificial Intelligence first assignment
+# Introduction to Python
+Basic Python operations
+Assignment no 1 Artificial intelligence
